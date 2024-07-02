@@ -1,0 +1,16 @@
+<userlist>
+	<user>
+		<id>0</id>
+		<name>Vitor Freitas</name>
+		<cpf>12345678900</cpf>
+		<role>admin</role>
+		<email>vitor.freitas@example.com</email>
+	</user>
+	<user>
+		<id>1</id>
+		<name>Sabrina Machado</name>
+		<cpf>99999999900</cpf>
+		<email>sabrina.machado@example.com</email>
+		<role>client</role>
+	</user>
+</userlist>

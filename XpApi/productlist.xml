@@ -1,0 +1,53 @@
+<productlist>
+	<product>
+		<id>0</id>
+		<name>LCA BANCO ITAU - JUN/2025</name>
+		<type>LCA</type>
+		<minquantity>1000</minquantity>
+		<maxquantity>10000000</maxquantity>
+		<unitprice>1</unitprice>
+		<grace>06/30/2025</grace>
+		<maturity>06/30/2025</maturity>
+		<ratetype>p.a.</ratetype>
+		<rate>93% CDI</rate>
+		<interest>0</interest>
+		<amortization>0</amortization>
+		<agency>Fitch</agency>
+		<rating>AAA</rating>
+		<liquidity>At Maturity</liquidity>
+	</product>
+	<product>
+		<id>1</id>
+		<name>LCI BANCO XP S.A. - JUN/2026</name>
+		<type>LCI</type>
+		<minquantity>1</minquantity>
+		<maxquantity>30000</maxquantity>
+		<unitprice>1000</unitprice>
+		<grace>06/30/2025</grace>
+		<maturity>06/30/2026</maturity>
+		<ratetype>p.a.</ratetype>
+		<rate>93% CDI</rate>
+		<interest>Maturity</interest>
+		<amortization>0</amortization>
+		<agency>S and P</agency>
+		<rating>brAAA</rating>
+		<liquidity>With Grace Period</liquidity>
+	</product>
+	<product>
+		<id>2</id>
+		<name>CDB BANCO MASTER DE INVESTIME - JUN/2030</name>
+		<type>CDB</type>
+		<minquantity>1</minquantity>
+		<maxquantity>200</maxquantity>
+		<unitprice>1000</unitprice>
+		<grace>06/29/2030</grace>
+		<maturity>06/29/2030</maturity>
+		<ratetype>p.a.</ratetype>
+		<rate>120% CDI</rate>
+		<interest>Maturity</interest>
+		<amortization>0</amortization>
+		<agency>Fitch</agency>
+		<rating>BBB</rating>
+		<liquidity>At Maturity</liquidity>
+	</product>
+</productlist>
